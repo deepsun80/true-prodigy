@@ -3,6 +3,7 @@
 ### Getting Started
 * created using create-react-app 
 * clone repo
+* cd into repo directory and run npm install to install all the dependencies
 * npm start to run react app - app will run on localhost:3000 in browser
 
 ### File Locations and functionalities
