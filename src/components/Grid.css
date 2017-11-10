@@ -1,0 +1,39 @@
+body {
+    font-size: 12px;
+}
+
+/* -----Main Table STyling----- */
+.mainTable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.mainTable td, .mainTable th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+.mainTable tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+/* -----Modal Table STyling----- */
+.modalTable {
+    font-size: 21px;
+}
+.modalTable div {
+    margin-top: 15px;
+}
+.modalTable td, .modalTable th {
+    text-align: left;
+}
+.modalTable th {
+    padding-right: 50px;
+}
+.modalTable td {
+    background-color: white;
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-right: 35px;
+}
